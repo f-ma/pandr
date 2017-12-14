@@ -1,0 +1,17 @@
+{
+  "name": "pandr",
+  "version": "0.0.1",
+  "description": "A POS application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/f-ma/pandr.git",
+  "keywords": [
+    "POS"
+  ],
+  "author": "Huy Quang Pham",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
